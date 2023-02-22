@@ -1,0 +1,9 @@
+[meta]
+name = "Ticker Arbitrary Text"
+author = "MisfitMaid"
+category = "Overlay"
+version = "0.1"
+siteid = 335
+
+[script]
+dependencies = ["ticker"]
